@@ -1,4 +1,4 @@
-# Ko ZIn Moe ( Docker + GitOps )
+# Docker + CICD + GitOps
 
 This folder contains the training materials for the Docker, CI/CD, and GitOps track.
 
